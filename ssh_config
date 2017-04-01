@@ -1,5 +1,5 @@
 #CAEN
 Host caen
 	HostName login.engin.umich.edu
-	User asdf
+	User hiimeggr
 	Compression yes
